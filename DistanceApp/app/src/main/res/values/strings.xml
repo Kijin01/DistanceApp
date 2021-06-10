@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Distance App</string>
+    <string name="scanning_nearby_devices">Scanning nearby devices...</string>
+</resources>
